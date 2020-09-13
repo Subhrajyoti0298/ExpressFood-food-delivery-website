@@ -1,13 +1,11 @@
 # ExpressFood food delivery website
 
-In this project, I have created a food delivery website named "ExpressFood" using Web Technologies like HTML, CSS, JavaScript and JQuery. The website uses a responsive design so that it can fit any screen size. Screenshots of the different sections of my page are provided below.
+In this project, I have created a food delivery website named "ExpressFood" using Web Technologies like HTML, CSS. The website uses a responsive design so that it can fit any screen size. Screenshots of the different sections of my page are provided below.
 
 ### Web Technologies Used
 
 * HTML
 * CSS
-* JavaScript
-* JQuery
 
 
 Header Section             |  
