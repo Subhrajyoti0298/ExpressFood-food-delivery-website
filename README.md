@@ -2,7 +2,7 @@
 
 Here I have added some screenshots of my project.
 
-### Stack
+### Web Technologies Used
 
 * HTML
 * CSS
