@@ -2,7 +2,8 @@
 
 Here I have added some screenshots of my project.
 
-Web Technologies used :
+### Stack
+
 * HTML
 * CSS
 * JavaScript
